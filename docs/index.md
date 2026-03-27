@@ -3,6 +3,9 @@ title: "SAS Learning Modules (UCLA)"
 layout: "home"
 description: "Comprehensive set of guides that include installing SAS, learning SAS fundamentals and advanced data analysis examples."
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # SAS Learning Modules (UCLA)
@@ -13,7 +16,7 @@ Comprehensive set of guides that include installing SAS, learning SAS fundamenta
 
 Link:
 
-<http://stats.idre.ucla.edu.myaccess.library.utoronto.ca/sas/>
+<https://stats.oarc.ucla.edu/sas/>
 
 Tools: [SAS](/tools/sas-0)
 
