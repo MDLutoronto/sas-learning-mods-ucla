@@ -6,6 +6,7 @@ permalink: "/"  #! Remove this if not the homepage
 maintainer:
  - name: Nadia Muhe
    link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2017-05-05
 ---
 
 # SAS Learning Modules (UCLA)
@@ -20,4 +21,4 @@ Link:
 
 **Tools:** [SAS](https://mdlutoronto.github.io/tutorials-search/?tool=SAS)
 
-**Date Created:** 2017\-05\-05 **Updated:** 2021\-09\-02
+2017-05-05
