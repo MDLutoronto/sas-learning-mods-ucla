@@ -18,6 +18,6 @@ Link:
 
 <https://stats.oarc.ucla.edu/sas/>
 
-Tools: [SAS](/tools/sas-0)
+**Tools:** [SAS](https://mdlutoronto.github.io/tutorials-search/?tool=SAS)
 
 **Date Created:** 2017\-05\-05 **Updated:** 2021\-09\-02
